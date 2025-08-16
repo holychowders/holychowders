@@ -19,7 +19,6 @@
 [![Windows Badge](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 [![Batch Badge](https://custom-icon-badges.demolab.com/badge/Batch-0078D6?logo=batch_file_icon&logoColor=white)](#)
 [![Sysinternals Badge](https://custom-icon-badges.demolab.com/badge/Sysinternals-19518d?logo=sysinternals_icon&logoColor=white)](#)
-
 [![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![Ubuntu Server Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 [![Rocky Linux Badge](https://img.shields.io/badge/Rocky%20Linux-10B981?logo=rockylinux&logoColor=fff)](#)
@@ -27,17 +26,14 @@
 [![Scapy Badge](https://custom-icon-badges.demolab.com/badge/Scapy-3776AB?logo=scapy_icon_alpha&logoColor=white)](#)
 [![Nmap Badge](https://custom-icon-badges.demolab.com/badge/Nmap-290c44?logo=nmap_icon&logoColor=white)](#)
 [![tmux Badge](https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=fff)](#)
-
 [![Google Cloud Badge](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
 [![Terraform Badge](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff)](#)
 [![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![GitHub Actions Badge](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
-
 [![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)](#)
 [![Rust Badge](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Flask Badge](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
-
 [![SQLite Badge](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
 
 ## Contact
