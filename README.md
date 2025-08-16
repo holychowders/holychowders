@@ -42,7 +42,7 @@
 
 ## Contact
 
-- [![GitHub Badge](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/holychowders)
-- [![GitLab Badge](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)](https://gitlab.com/holychowders)
-- [![YouTube Badge](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@holychowders)
-- [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:theholychowders@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/holychowders)
+[![GitLab Badge](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)](https://gitlab.com/holychowders)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@holychowders)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:theholychowders@gmail.com)
