@@ -4,7 +4,7 @@
 
 | Repository | Description | Technology |
 |------------|-------------|--------------|
-| [Veloren](https://gitlab.com/veloren/veloren) | [Veloren](https://veloren.net) is an action-adventure role-playing game set in a vast fantasy world | [![Rust Badge](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#) |
+| [Veloren](https://gitlab.com/veloren/veloren) | [Veloren](https://veloren.net) is an action-adventure role-playing game set in a vast fantasy world | [![Rust Badge](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)](#) |
 | [Linux Reference](https://github.com/holychowders/linux-reference) | My personal Linux system administration reference | [![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)](#) [![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat)](#) [![Scapy Badge](https://custom-icon-badges.demolab.com/badge/Scapy-3776AB?logo=scapy_icon_alpha&logoColor=white)](#) [![Nmap Badge](https://custom-icon-badges.demolab.com/badge/Nmap-290c44?logo=nmap_icon&logoColor=white)](#) |
 | [Windows Reference](https://github.com/holychowders/windows-reference) | My personal Windows system administration reference | [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#) [![Sysinternals Badge](https://custom-icon-badges.demolab.com/badge/Sysinternals-19518d?logo=sysinternals_icon&logoColor=white)](#) |
 | [Winux Dotfiles](https://github.com/holychowders/winux-dotfiles) | Windows and Linux Dotfiles | [![Batch Badge](https://custom-icon-badges.demolab.com/badge/Batch-0078D6?logo=batch_file_icon&logoColor=white)](#) [![Bash Badge](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat)](#) |
@@ -31,7 +31,7 @@
 [![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![GitHub Actions Badge](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
 [![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)](#)
-[![Rust Badge](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
+[![Rust Badge](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)](#)
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Flask Badge](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
 [![SQLite Badge](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
