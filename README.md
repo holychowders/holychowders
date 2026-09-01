@@ -44,6 +44,5 @@ Computer science graduate student interested in native systems programming, comp
 [![GitHub Badge](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/holychowders)
 [![GitLab Badge](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)](https://gitlab.com/holychowders)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@holychowders)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:theholychowders@gmail.com)
-
-`OpenGPG (email):` [`FA9F 0696 2F64 B55D B3B5  AF87 4B8A A33C 6886 DDCD`](./holychowders.asc)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:theholychowders@gmail.com)  
+`OpenPGP (email):` [`FA9F 0696 2F64 B55D B3B5  AF87 4B8A A33C 6886 DDCD`](./holychowders.asc)
